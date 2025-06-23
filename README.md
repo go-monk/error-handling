@@ -152,7 +152,7 @@ if err != nil {
 
 ## More
 
-* *The Go Programming Language* (2016, Go 1.5)
-* [Go 1.13 errors](https://go.dev/blog/go1.13-errors)
-* [Errors are values](https://go.dev/blog/errors-are-values)
-* [Error handling and Go](https://go.dev/blog/error-handling-and-go)
+* The Go Programming Language (2016, Go 1.5)
+* https://go.dev/blog/go1.13-errors
+* https://go.dev/blog/errors-are-values
+* https://go.dev/blog/error-handling-and-go
