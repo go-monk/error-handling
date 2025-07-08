@@ -1,3 +1,5 @@
+Source: https://github.com/go-monk/error-handling
+
 Go's approach to error handling is based on two ideas:
 
 * Errors are an important part of an application's or library’s interface.
